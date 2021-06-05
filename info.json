@@ -1,0 +1,921 @@
+{
+  "continent": {
+    "Europe": {
+      "country": {
+        "France": {
+          "flag": "https://flagpedia.net/data/flags/w580/fr.png",
+          "official_name": "French Republic",
+          "capital": "Paris",
+          "population": "67 064 000",
+          "area": "640 679",
+          "currency": {
+            "name": "Euro",
+            "symbol": "€",
+            "code": "EUR",
+            "GPD": "41 464"
+          },
+          "language": "French",
+          "phrase": {
+            "Comme on fait son lit, on se couche": {
+              "translation": "You’ve made your bed, now lie on it.",
+              "meaning": "The same as the biblical version “you reap what you sow”, this French saying warns that you suffer the consequences of your actions or that you must accept the unpleasant results of something you’ve done."
+            },
+            "Battre le fer pendant qu’il est chaud": {
+              "translation": "Strike the iron while it is hot",
+              "meaning": "When the blacksmith is forging the iron, the metal must be red-hot so its shape can be changed. This means you have to take advantage of favorable situations"
+            },
+            "Vouloir, c’est pouvoir": {
+              "translation": "To want to is to be able to",
+              "meaning": "Where there’s a will, there’s a way. You can use this saying to encourage someone who doubts themselves."
+            },
+            "La nuit porte conseil": {
+              "translation": "The night brings advice",
+              "meaning": "This is the equivalent of 'sleep on it'. Or, in other words, take your time before making a decision"
+            },
+            "Ce n’est pas la mer à boire": {
+              "translation": "It’s not as if you have to drink the sea",
+              "meaning": "“It’s not that difficult” or “it’s not a big deal”. You can use it when someone complains about doing something."
+            }
+          },
+          "destination": {
+            "Disneyland Paris": "48.8674° N, 2.7836° E",
+            "Eiffel tower": "48.8584° N, 2.2945° E",
+            "Chauvet Cave": "44.3872° N, 4.4159° E",
+            "Palace of Versailles": "48.8049° N, 2.1204° E",
+            "Rouen": "49.4432° N, 1.1000° E"
+          },
+          "question": {
+            "What does the country’s national motto 'Liberte, Egalite, Franernite' mean?": {
+              "fact": "The country’s national motto Liberte, Egalite, Franernite ('Liberty, Equality and Fratenity')",
+              "answer": "Liberty, Equality and Fratenity",
+              "option": [
+                "Liberty, Equality and Fratenity",
+                "Liberty, Regality and Fortune",
+                "Liberty, Equality and Fortune",
+                "Liberty, Equality and Fortune"
+              ]
+            },
+            "France has the largest land area in the EU": {
+              "fact": "France has a land area of 547,000 square kilometres, making it the largest country in the EU.",
+              "answer": "True",
+              "option": ["True", "False"]
+            },
+            "The croissant was invented in France": {
+              "fact": "The croissant was actually invented in Austria",
+              "answer": "False",
+              "option": ["True", "False"]
+            },
+            "It is legal to throw out food in France": {
+              "fact": "It is illegal to throw out edible food in France if it's able to be donated",
+              "answer": "False",
+              "option": ["True", "False"]
+            },
+            "The average French citizen eats how many snails a year?": {
+              "fact": "The average French citizen eats 500 snails each year",
+              "answer": "500",
+              "option": ["500", "300", "100", "20"]
+            }
+          }
+        },
+        "Norway": {
+          "flag": "https://flagpedia.net/data/flags/w580/no.png",
+          "official_name": "Kingdom of Norway",
+          "capital": "Oslo",
+          "population": "5 356 789",
+          "area": "323 802",
+          "currency": {
+            "name": "Norwegian krone",
+            "symbol": "kr",
+            "code": "NOK",
+            "GPD": " 81 697"
+          },
+
+          "language": "Norwegian",
+          "phrase": {
+            "Å være pling i bollen": {
+              "translation": "To be a ping in the bowl",
+              "meaning": "To be empty-headed/stupid (from the “ping”-like noise an empty bowl makes when you tap it"
+            },
+            "Å stå/sitter med skjegget i postkassa": {
+              "translation": "To stand / sit with your beard in the post box",
+              "meaning": "To have ended up in a stupid situation, that you may have cheated your way into."
+            },
+            "Man skal ikke skue hunden på hårene": {
+              "translation": "You shouldn’t judge the dog on its hairs",
+              "meaning": "You shouldn’t judge a book by its cover"
+            },
+            "Is i magen": {
+              "translation": "Ice in one’s stomach",
+              "meaning": "Stay in control, play it cool"
+            },
+            "Å snakke rett fra leveren": {
+              "translation": "To speak directly from the liver",
+              "meaning": "To speak plainly/truthfully without sugar-coating"
+            }
+          },
+          "destination": {
+            "Artic circle": "66.4234° N, 14.4461° E",
+            "Geirangerfjord": "62.1015° N, 7.0941° E",
+            "pulpit rock": "58.9864° N, 6.1904° E",
+            "Spitsbergen Island": "78.9014° N, 13.4839° E",
+            "The Norwegian National Opera & Ballet": "59.9080° N, 10.7519° E"
+          },
+          "question": {
+            "Norway introduced salmon sushi to Japan": {
+              "fact": "Norway introduced salmon sushi to Japan. While sushi is absolutely a Japanese invention, they did not use salmon in the dish until it was suggested by a Norwegian delegation in 1980's.",
+              "answer": "True",
+              "option": ["True", "False"]
+            },
+            "What type of skiing was invented in Norway?": {
+              "fact": "Modern and ancient skiing were invented in Norway",
+              "answer": "both",
+              "option": ["both", "modern", "ancient", "neither"]
+            },
+            "Which was invented in Norway?": {
+              "fact": "Norway gave the world the cheese slicer.  The cheese slicer was invented way back in 1925 by Thor Bjørklund",
+              "answer": "cheese slicer",
+              "option": [
+                "cheese slicer",
+                "cheese grater",
+                "ice cube tray",
+                "ice cream scoop"
+              ]
+            },
+            "98% of Norway's domestic power usage is drawn from what?": {
+              "fact": "Around 98% of Norway's domestic power usage is drawn from hydroelectric power plants.",
+              "answer": "hydroelectric power plants",
+              "option": [
+                "hydroelectric power plants",
+                "solar power plants",
+                "wind turbine power plants",
+                "geothermal power plants"
+              ]
+            },
+            "The Nobel Peace Prize is awarded in Oslo ": {
+              "fact": "The Nobel Peace Prize is awarded in Oslo .The Norwegian capital has been the proud venue of the Nobel Peace Prize ceremony",
+              "answer": "True",
+              "option": ["True", "False"]
+            }
+          }
+        }
+      }
+    },
+    "North America": {
+      "country": {
+        "Canada": {
+          "flag": "https://flagpedia.net/data/flags/w580/ca.png",
+          "official_name": "Canada",
+          "capital": "Ottawa",
+          "population": "37 935 814",
+          "area": "9 984 670",
+          "currency": {
+            "name": "Canadian dollar",
+            "symbol": "$",
+            "code": "CAD",
+            "GPD": " 46 233"
+          },
+          "language": ["English", "French"],
+
+          "phrase": {
+            "What you sayin’?": {
+              "meaning": "One of those Canadian sayings that can be misleading. It’s used when asking what someone is doing – similar to the phrase “What are you up to?”"
+            },
+            "That’s jokes": {
+              "meaning": "Use this phrase when you want to say something is hilarious or funny"
+            },
+            "Fill yer boots": {
+              "meaning": "This hospitable saying comes from the island of Newfoundland off the east coast of the Canadian mainland, meaning ‘do whatever you want’ or ‘help yourself to as much as you’d like’."
+            },
+            "Gong show": {
+              "meaning": "A situation or event that is a disaster or gets way too out of control. “That party last night got really out of hand. It was a real gong show.”"
+            },
+            "Out for a rip": {
+              "meaning": "This phrase has two meanings. One is going out for a drive, usually something a bit extreme like offroading or snowmobiling. The other refers to hanging out with friends—kicking back, taking it easy, and having a good time."
+            }
+          },
+          "destination": {
+            "Canadian Museum for Human Rights": "49.8908° N, 97.1309° W",
+            "Niagara Falls": "43.0962° N, 79.0377° W",
+            "Jasper National Park": "52.8734° N, 117.9543° W",
+            "Fairmont Le Château Frontenac": "46.8120° N, 71.2052° W",
+            "Capilano Suspension Bridge Park": "49.3429° N, 123.1149° W"
+          },
+          "question": {
+            "What ratio of Canadians live in the US vs Canada?": {
+              "fact": "Nine out of ten Canadians live in the US - Canada border region which includes the area up to 160 km/ 99 miles from the US - Canada border.",
+              "answer": "9:10",
+              "option": ["9:10", "1:3", "4:5", "1:2"]
+            },
+            "Canada is the world leader in what?": {
+              "fact": "Canada is the world leader in uranium mining.",
+              "answer": "uranium mining",
+              "option": [
+                "uranium mining",
+                "emerald mining",
+                "titanium mining",
+                "aquamarine mining"
+              ]
+            },
+            "Canada has the longest coastline in the world": {
+              "fact": "Canada has the longest coastline in the world with 202,080 km/ 125,567 miles.",
+              "answer": "True",
+              "option": ["True", "False"]
+            },
+            "Canada have more than 4 million lakes": {
+              "fact": "More than half of all the lakes in the world are located in Canada! The country counts more than 3 million lakes and 31,700 big lakes with an area over 300 hectares. Canada also includes two of the biggest lakes in the world: Great Bear Lake and Great Slave Lake.",
+              "answer": "False",
+              "option": ["True", "False"]
+            },
+            "Canada is the second largest country in the world": {
+              "fact": "Canada is the largest country in the Western hemisphere and the second largest country in the world after Russia and borders only one country, the United States of America.",
+              "answer": "True",
+              "option": ["True", "False"]
+            }
+          }
+        },
+        "United States": {
+          "flag": "https://flagpedia.net/data/flags/w580/us.png",
+          "official_name": "United States of America",
+          "capital": "Washington D.C.",
+          "population": "329 345 637",
+          "area": "9 833 520",
+          "currency": {
+            "name": "United States dollar ",
+            "symbol": "$",
+            "code": "USD",
+            "GPD": " 62 795"
+          },
+          "language": "English",
+          "phrase": {
+            "it's not rocket science": {
+              "meaning": "is a way of explaining something by hyperbolically explaining what it's not—in this case, saying something is not too difficult."
+            },
+            "Break a bill.": {
+              "meaning": "When we want to get change, turning a larger bill into smaller ones, this term can come in handy."
+            },
+            "Piece of cake": {
+              "meaning": "something easily done"
+            },
+            "Put lipstick on a pig": {
+              "meaning": "slang for when someone tries to dress something up, but is still that something. usually used on ugly broads, when they put on a skirt and some lipstick and well, they still look like the same digusting pig."
+            },
+            "Tell me about it.": {
+              "meaning": "When a foreigner hears an American say this, they can be forgiven for assuming they are simply asking them to continue talking about what they've been talking about. Instead, we usually say this to mean 'I know what you mean.'"
+            }
+          },
+          "destination": {
+            "Universal Studios Hollywood": "34.1381° N, 118.3534° W",
+            "Yellowstone National Park": "44.4280° N, 110.5885° W",
+            "American Museum of Natural History": "40.7813° N, 73.9740° W",
+            "Las Vegas strip": "36.1147° N, 115.1728° W",
+            "museum of the death": "34.1019° N, 118.3212° W"
+          },
+          "question": {
+            "What percentage of the worlds crayfish is from Louisiana? ": {
+              "fact": "Louisiana has the most crayfish; 98% of the worlds crayfish",
+              "answer": "98%",
+              "option": ["98%", "67%", "35%", "19%"]
+            },
+            "The oldest rock in thw world was found in America": {
+              "fact": "The oldest rock in the world, 3.8 billion years old, found in Minnesota River valley",
+              "answer": "True",
+              "option": ["True", "False"]
+            },
+            "United States national animal is the American Bison": {
+              "fact": "National animal: American Bison",
+              "answer": "True",
+              "option": ["True", "False"]
+            },
+            "Which was invented in America": {
+              "fact": "The typewriter, invented in Milwaukee in 1867",
+              "answer": "typewriter",
+              "option": [
+                "typewriter",
+                "fax machine",
+                "electronic printer",
+                "voicemail"
+              ]
+            },
+            "Hydrogen was discovered in America": {
+              "fact": "Helium discovered in 1905 at the University of Kansas",
+              "answer": "False",
+              "option": ["True", "False"]
+            }
+          }
+        }
+      }
+    },
+    "South America": {
+      "country": {
+        "Peru": {
+          "flag": "https://flagpedia.net/data/flags/w580/pe.png",
+          "official_name": "Republic of Peru",
+          "capital": "Republic of Peru",
+          "population": "32 131 400",
+          "area": "1 285 220",
+          "currency": {
+            "name": "Peruvian sol",
+            "symbol": "S/.",
+            "code": "PEN",
+            "GPD": " 6 941"
+          },
+          "language": ["Spanish", "Aymara"],
+          "phrase": {
+            "Ya fuiste!": {
+              "translation": "You went!",
+              "meaning": "A popular Peruvian way to say something like “you’ve missed out”, “you’ve lost your chance”, “that ship has sailed” etc"
+            },
+            "No tener pelos en la lengua": {
+              "translation": "Not mince words",
+              "meaning": "To be straightforward / To tell it like it is"
+            },
+            "Quedarse de piedra": {
+              "translation": "To be stunned",
+              "meaning": "To be stunned"
+            },
+            "Ser uña y carne": {
+              "translation": "Be hand in glove",
+              "meaning": "To be bosom buddies"
+            },
+            "Se me hace agua la boca": {
+              "translation": "My mouth is watering",
+              "meaning": "To make one’s mouth water / To be mouthwatering"
+            }
+          },
+          "destination": {
+            "Machu Picchu": "13.1631° S, 72.5450° W",
+            "Nazca Lines": "14.7390° S, 75.1300° W",
+            "Chan Chan": "8.1056° S, 79.0746° W",
+            "Huacachina": "14.0875° S, 75.7626° W",
+            "Sacred Valley": "13.3328° S, 72.0845° W"
+          },
+          "question": {
+            "What percentage of alcpaca population live in Peru?": {
+              "fact": "Three-quarters of the world’s alpaca population lives in Peru. The national animal is the vicuña, a small camelid similar to the alpaca. It comes in 22 natural colors and its wool is considered the world’s most luxurious fabric.",
+              "answer": "75%",
+              "option": ["75%", "50%", "25%", "12%"]
+            },
+            "It takes roughly 200 hours to make a traditional Peruvian poncho": {
+              "fact": "It takes between 500 and 600 hours and up to six months to spin, dye, and weave a traditional Peruvian poncho. Peruvians generally receive one poncho upon becoming an adult and it is expected to last a lifetime. Nearly every weaving technique known today was invented by Peruvians – and all of them were invented by 3000 B.C..",
+              "answer": "False",
+              "option": ["True", "False"]
+            },
+            "Peru has the highest sand dune in the world": {
+              "fact": "The highest sand dune in the world, Cerro Blanco, can be found in Peru. It is located in the Sechura Desert and stands 3,860 feet from base to summit.",
+              "answer": "True",
+              "option": ["True", "False"]
+            },
+            "Peru has the deepest canyon in the world": {
+              "fact": "The deepest canyon in the world, Cotahuasi Canyon, is also found in Peru. At 11,004 feet deep, it is almost twice as deep as the Grand Canyon.",
+              "answer": "True",
+              "option": ["True", "False"]
+            },
+            "": {
+              "fact": "The Incan Empire was larger than imperial Rome at its peak. It included 24,855 miles of roads and relied on a network of chasquis (runners) to keep the kingdom connected.",
+              "answer": "True",
+              "option": ["True", "False"]
+            }
+          }
+        },
+        "Colombia": {
+          "flag": "https://flagpedia.net/data/flags/w580/co.png",
+          "official_name": "Republic of Colombia",
+          "capital": "Bogotá",
+          "population": "49 395 678",
+          "area": "1 141 750",
+          "currency": {
+            "name": "Colombian peso",
+            "symbol": "$",
+            "code": "COP",
+            "GPD": " 6 668"
+          },
+
+          "language": "Spanish",
+          "phrase": {
+            "Sacar canas verdes": {
+              "translation": "to pull out green hairs",
+              "meaning": "to drive someone crazy"
+            },
+            "Me gustan los cuentos claros y el chocolate espeso": {
+              "translation": "I like clear stories and thick chocolate",
+              "meaning": "This refers to Colombians’ preference for being honest and straightforward—if you have something to say, say it their face."
+            },
+            "Estar en la olla": {
+              "translation": "to be in the pot",
+              "meaning": "comparable to the English “to be in hot water.”"
+            },
+            "Me importa un comino": {
+              "translation": "It matters a speck of cumin to me",
+              "meaning": "the subject under discussion is infinitesimally small"
+            },
+            "Le cuento el milagro pero no el santo": {
+              "translation": "I’ll tell you the miracle, but not the saint",
+              "meaning": "This is a favorite saying of chismosas, or chronic gossipers, meaning they’ll tell you a shocking story but the perpetrators will stay anonymous."
+            }
+          },
+          "destination": {
+            "Tayrona National Natural Park": "11.3064° N, 74.0658° W",
+            "The Lost City": "11.0384° N, 73.9251° W",
+            "Caño Cristales": "2.2643° N, 73.7944° W",
+            "Rosario Islands": "10.1750° N, 75.7500° W",
+            "National Archeological Park of Tierradentro": "2.5706° N, 76.0364° W"
+          },
+          "question": {
+            "Colombia is the only country in South America that has coastlines on both the Pacific Ocean and the Caribbean Sea": {
+              "fact": "Colombia is the only country in South America that has coastlines on both the Pacific Ocean and the Caribbean Sea.",
+              "answer": "True",
+              "option": ["True", "False"]
+            },
+            "Famous singer Shakira is from Colombia": {
+              "fact": "Colombia has a vibrant music scene. Two of the best known Colombian musicians are Shakira and Juanes",
+              "answer": "True",
+              "option": ["True", "False"]
+            },
+            "It is mandatory for radio and public television in Colombia to play the national anthem every day at 6 am and 6 pm.": {
+              "fact": "It is mandatory for radio and public television in Colombia to play the national anthem every day at 6 am and 6 pm.",
+              "answer": "True",
+              "option": ["True", "False"]
+            },
+            "Which is Colombia the leading source for?": {
+              "fact": "Colombia is the world’s leading source of emeralds. It is also the third largest exporter of coffee in the world after Brazil and Vietnam.",
+              "answer": "emerald mining",
+              "option": [
+                "uranium mining",
+                "emerald mining",
+                "titanium mining",
+                "aquamarine mining"
+              ]
+            },
+            "Colombia has the world’s highest coastal mountain range": {
+              "fact": "Colombia’s Sierra Nevada de Santa Marta, at 13,000m, is the world’s highest coastal mountain range. It is also has moved more than a thousand miles in the last 170 million years.",
+              "answer": "True",
+              "option": ["True", "False"]
+            }
+          }
+        }
+      }
+    },
+    "Africa": {
+      "country": {
+        "Egypt": {
+          "flag": "https://flagpedia.net/data/flags/w580/eg.png",
+          "official_name": "Arab Republic of Egypt",
+          "capital": "Cairo",
+          "population": "100 052 943",
+          "area": "1 002 450",
+          "currency": {
+            "name": "Egyptian pound",
+            "symbol": "E£",
+            "code": "EGP",
+            "GPD": " 2 549"
+          },
+          "language": "Arabic",
+          "phrase": {
+            "ضوكهول يل هامام ميسه زاي كهوروعو": {
+              "orthography": "Dukhul el hamam mesh zay khurugu",
+              "translation": "Entering a bathroom is not like leaving it",
+              "meaning": "to be in deep water"
+            },
+            "ضافنينو ساوا": {
+              "orthography": "Dafnino sawa",
+              "translation": "We buried it together",
+              "meaning": "you can’t have your cake and eat it, too or read the riot act"
+            },
+            "ىللي يكهتاسهو ماتو": {
+              "orthography": "Elli ekhtashu mato",
+              "translation": "Those who feared shame, died",
+              "meaning": "No morals"
+            },
+            "ىلءدوررا موررا هاتتا لاو كانيت عاررا": {
+              "orthography": "El-durra murra hatta law kanet garra",
+              "translation": "The co-wife is sour, even if she is a jar",
+              "meaning": " A jealous woman will set a whole house on fire"
+            },
+            "ىلءيرد في يين وممو عهازال": {
+              "orthography": "El-erd fe ein ommo ghazal",
+              "translation": "A monkey is a deer in its mother’s eyes",
+              "meaning": "A face only a mother could love"
+            }
+          },
+          "destination": {
+            "Pyramids of Giza": "29.9792° N, 31.1342° E",
+            "Valley of the Kings": "25.7402° N, 32.6014° E",
+            "Temples of Karnak": "25.7188° N, 32.6573° E",
+            "Abydos Temple": "26.1851° N, 31.9192° E",
+            "Egyptian Museum": "30.0476° N, 31.2336° E"
+          },
+          "question": {
+            "The largest pyramid weighs as much as how many Empire State buildings?": {
+              "fact": "The Pyramid of Khufu at Giza is the largest Egyptian pyramid. This incredible structure weighs as much as 16 Empire State buildings!",
+              "answer": "16",
+              "option": ["16", "8", "4", "2"]
+            },
+            "Egypt was the second country to use the 365-day calendar that is divided into 12 months": {
+              "fact": "The 365-day calendar that is divided into 12 months was invented in Egypt.",
+              "answer": "False",
+              "option": ["True", "False"]
+            },
+            "Egypt is the country with the most Arab speaking people in the world.": {
+              "fact": "Egypt is the country with the most Arab speaking people in the world. Some also refer to Egypt as the most populous country in the Arab world.",
+              "answer": "True",
+              "option": ["True", "False"]
+            },
+            "Cleopatra VII is one of the most famous Egyptians": {
+              "fact": "One of the most famous figures tied to Egypt, Cleopatra VII, was Greek",
+              "answer": "False",
+              "option": ["True", "False"]
+            },
+            "What percentage of Egypts population are Egytians?": {
+              "fact": "",
+              "answer": "99%",
+              "option": ["99%", "88%", "77%", "66%"]
+            }
+          }
+        },
+        "Tanzania": {
+          "flag": "https://flagpedia.net/data/flags/w580/tz.png",
+          "official_name": "United Republic of Tanzania",
+          "capital": "Dodoma",
+          "population": "55 890 747",
+          "area": "945 087",
+          "currency": {
+            "name": "Tanzanian shilling",
+            "symbol": "Sh",
+            "code": "TZS",
+            "GPD": " 1 051"
+          },
+          "language": ["Swahili", "English"],
+          "phrase": {
+            "Kila ndege huruka na mbawa zake": {
+              "translation": "Each bird flies with its wings",
+              "meaning": "Every bird flies with its own wings"
+            },
+            "Atangaye na jua hujuwa": {
+              "translation": "He who knows the sun knows",
+              "meaning": "He who wanders around by day a lot, learns a lot"
+            },
+            "Moyo wa kupenda hauna subira": {
+              "translation": "The heart of love is impatient",
+              "meaning": "A heart deep in love has no patience"
+            },
+            "Asisa firie nyota ya mwenzio": {
+              "translation": "Don't sail on partner star",
+              "meaning": "Don’t set sail using somebody else’s star"
+            },
+            "Mwenye pupa hadiriki kula tamu": {
+              "translation": "A greedy person does not dare to eat sweets",
+              "meaning": "A hasty person misses the sweet things"
+            }
+          },
+          "destination": {
+            "Serengeti National Park": "1.8936° S, 34.6857° E",
+            "Zanzibar": "6.1357° S, 39.3621° E",
+            "Kilimanjaro": "3.0674° S, 37.3556° E",
+            "Stone Town": "6.1622° S, 39.1921° E",
+            "Lake Victoria": "0.7558° S, 33.4384° E"
+          },
+          "question": {
+            "Freddie Mercury from the band ‘Queen’ was born in Tanzania.": {
+              "fact": "Freddie Mercury, the famous late songwriter and vocalist for the rock band ‘Queen’ was born in Zanzibar, Tanzania.",
+              "answer": "True",
+              "option": ["True", "False"]
+            },
+            "Tanzania is home to the largest what?": {
+              "fact": "Tanzania is the home to the largest crab in the world, the coconut crab. It is also apparently one of the tastiest crabs in the world.",
+              "answer": "Crab",
+              "option": ["Crab", "Lion", "Moth", "Snake"]
+            },
+            "Tanzania had the shortest war in history, how long did it last?": {
+              "fact": "The shortest war in history was fought in 1896 in Tanzania between the United Kingdom and Zanzibar. It lasted only 45 minutes.",
+              "answer": "45 minutes",
+              "option": ["45 minutes", "2 hours", "1 day", "1 week"]
+            },
+            "Every type of ecological system can be found on Mount Kilimanjaro": {
+              "fact": "Almost every type of ecological system can be found on Mount Kilimanjaro. This includes cultivated land, rain forest, heath, moorland, alpine desert, and an arctic summit.",
+              "answer": "False",
+              "option": ["True", "False"]
+            },
+            "The Serengeti National Park in Tanzania is one of the oldest ecosystems ": {
+              "fact": "The Serengeti National Park in Tanzania is one of the oldest ecosystems on the planet and little has changed in the park in over 1 million years. It boasts a diversity of flora and fauna that is unavailable anywhere else in the world",
+              "answer": "True",
+              "option": ["True", "False"]
+            }
+          }
+        }
+      }
+    },
+    "Asia": {
+      "country": {
+        "Japan": {
+          "flag": "https://flagpedia.net/data/flags/w580/jp.png",
+          "official_name": "Japan",
+          "capital": "Tokyo",
+          "population": "126 010 000",
+          "area": "126 010 000",
+          "currency": {
+            "name": "Japanese yen ",
+            "symbol": "¥",
+            "code": "JPY",
+            "GPD": " 39 290 "
+          },
+          "language": "Japanese",
+          "phrase": {
+            "いちごいちえ": {
+              "logogram": "一期一会",
+              "orthography": "Ichigo ichi e",
+              "translation": "One life, one encounter.",
+              "meaning": "each and every moment is a once-in-a-lifetime encounter that should be cherished because you’ll only experience it once"
+            },
+            "じゅうにんといろ": {
+              "logogram": "十人十色",
+              "orthography": "Ji ~yuunintoiro",
+              "translation": "Ten men, ten colours",
+              "meaning": "People have different tastes and preferences and are free to like different things"
+            },
+            "きしかいせい": {
+              "logogram": "起死回生",
+              "orthography": "Kishikaisei",
+              "translation": "Wake from death and return to life. Resuscitation.",
+              "meaning": "To turn a negative situation into a positive one."
+            },
+            "じごうじとく": {
+              "logogram": "自業自得",
+              "orthography": "Jigōjitoku",
+              "translation": "One’s act, one’s profit.",
+              "meaning": "eventually, you will face the consequences of your actions"
+            },
+            "じゃくにくきょう食": {
+              "logogram": "弱肉強食",
+              "orthography": "Jakunikukyōshoku",
+              "translation": "The weak are meat; the strong eat",
+              "meaning": "The most able or fit are the ones who survive."
+            }
+          },
+          "destination": {
+            "Ghibli Museum": "35.6962° N, 139.5704° E",
+            "Pokémon Center Mega": "35.7288° N, 139.7191° E",
+            "universal studios japan": "34.6654° N, 135.4323° E",
+            "Hiroshima Peace Memorial Park": "34.3926° N, 132.4523° E",
+            "Imperial Palace": "35.6852° N, 139.7528° E"
+          },
+          "question": {
+            "It’s good manners to slurp your noodles": {
+              "fact": "Japan values good manners highly, but when it comes to chowing down on bowlfuls of noodles, there’s only one way to eat: noisily. Slurping is a sign of enjoyment and also cools down the noodles as you eat.",
+              "answer": "True",
+              "option": ["True", "False"]
+            },
+            "What is the traditional Christmas Eve meal?": {
+              "fact": "The traditional Christmas Eve meal is KFC",
+              "answer": "KFC",
+              "option": ["Turkey Ramen", "KFC", "Roast", "Turkey Salad"]
+            },
+            "Anti-ninja floors are a thing": {
+              "fact": "During the feudal period, wealthy Japanese lords built homes with deliberately squeaky floors (known as Nightingale Floors) as a defence measure against ninjas.",
+              "answer": "True",
+              "option": ["True", "False"]
+            },
+            "The number 13 is widely avoided in Japan": {
+              "fact": "The number four is extremely unlucky - The number four (‘shi’) is widely avoided in Japan since it sounds too similar to the Japanese word for death.",
+              "answer": "False",
+              "option": ["True", "False"]
+            },
+            "What is the ratio of vending machines to people in Japan?": {
+              "fact": "There is 1 vending machine for every 24 people",
+              "answer": "1:24",
+              "option": ["1:24", "1:12", "1:48", "1:36"]
+            }
+          }
+        },
+        "Thailand": {
+          "flag": "https://flagpedia.net/data/flags/w580/th.png",
+          "official_name": "Kingdom of Thailand",
+          "capital": "Bangkok",
+          "population": "66 474 267",
+          "area": "513 120",
+          "currency": {
+            "name": "Thai baht",
+            "symbol": "฿",
+            "code": "THB",
+            "GPD": " 7 274"
+          },
+          "language": "Thai",
+          "phrase": {
+            "กำแพงมีหู ประตูมีตา": {
+              "orthography": "gam-paeng-mee-hŏo bprà-dtoo-mee-dtaa",
+              "translation": "Walls have ears; doors have eyes",
+              "meaning": "Be careful what you talk about!"
+            },
+            "กำขี้ดีกว่ากำตด": {
+              "orthography": "gam kêe dee gwàa gam dtòt",
+              "translation": "Grabbing excrement is better than grabbing flatulence",
+              "meaning": "It’s better to have something than nothing!"
+            },
+            "เข้าหูซ้ายทะลุหูขวา": {
+              "orthography": "kâo hŏo sáai tá-lú hŏo kwăa",
+              "translation": "To go into the left ear and come out of the right ear.",
+              "meaning": "In one ear and out the other"
+            },
+            "จับปลาสองมือ ": {
+              "orthography": "jàp bplaa sŏng meu",
+              "translation": "Catch a fish in two hands (one in each hand)",
+              "meaning": "You can’t have your cake and eat it. Don’t try to focus on too many things"
+            },
+            "สีซอให้ควายฟัง": {
+              "orthography": "sĕe sor hâi kwaai fang",
+              "translation": "laying the violin for the buffalo to listen",
+              "meaning": "Talking to people who don’t care."
+            }
+          },
+          "destination": {
+            "Wat Rong Khun": "19.8242° N, 99.7636° E",
+            "Ayutthaya": "14.3692° N, 100.5877° E",
+            "The Grand Palace": "13.7499° N, 100.4916° E",
+            "The Sanctuary of Truth": "12.9727° N, 100.8891° E",
+            "Wat Arun": "13.7437° N, 100.4889° E"
+          },
+          "question": {
+            "Siamese cats are native to Thailand": {
+              "fact": "Thailand was actually known as Siam until 1939",
+              "answer": "True",
+              "option": ["True", "False"]
+            },
+            "In Thailand, it is illegal to leave your house without what?": {
+              "fact": "In Thailand, it is illegal to leave your house without underwear on.",
+              "answer": "underwear",
+              "option": ["underwear", "identification", "suncream", "shoes"]
+            },
+            "Thailand have their own monach": {
+              "fact": "Thailand is a constitutional monarchy, much like England.",
+              "answer": "True",
+              "option": ["True", "False"]
+            },
+            "How many temples are in Thailand?": {
+              "fact": "There are about 35,000 temples in Thailand. Thailand is truly a land of temples.",
+              "answer": "35,000",
+              "option": ["35,000", "3,500", "350", "350,000"]
+            },
+            "Thailand is where you’ll find both the smallest and the largest creatures. ": {
+              "fact": "Thailand is where you’ll find both the smallest and the largest creatures. The smallest mammal in the world, the bumblebee bat, calls Thailand home. You can also find the largest fish, the whale shark, in Thai waters.",
+              "answer": "True",
+              "option": ["True", "False"]
+            },
+            "It is common to see locals drive shirtless": {
+              "fact": "It is illegal to drive shirtless in Thailand.",
+              "answer": "False",
+              "option": ["True", "False"]
+            }
+          }
+        }
+      }
+    },
+    "Oceania": {
+      "country": {
+        "Australia": {
+          "flag": "https://flagpedia.net/data/flags/w580/au.png",
+          "official_name": "Commonwealth of Australia",
+          "capital": "Canberra",
+          "population": "25 627 280",
+          "area": "7 692 020",
+          "currency": {
+            "name": "Australian dollar",
+            "symbol": "$",
+            "code": "AUD",
+            "GPD": " 57 374"
+          },
+          "language": "English",
+          "phrase": {
+            "No worries, mate, she'll be right": {
+              "meaning": "Reflects a national stoicism that suggests everything (she) will turn out fine in the end. This being the case, there's no real point in worrying about anything."
+            },
+            "A few stubbies short of a six-pack.": {
+              "meaning": "A six-pack has evolved to mean anyone with fit abdomens, but long ago the six-pack was (and still is) a group of beers. If one is perceived as being a little slow -- they're actually quite dumb"
+            },
+            "Dog's breakfast": {
+              "meaning": "Messy, but doesn't refer to food. Often used by parents to describe their kids' chaotic lives. Not in order, a shambles, no thought, just a bit of everything."
+            },
+            "Gone walkabout": {
+              "meaning": "A spontaneous journey through the wilderness of one's choosing in an effort to satisfy one's itchy feet, a need to be elsewhere, the craving for the open road"
+            },
+            "One for the road": {
+              "meaning": "A last drink before going home. Said at bars or friends' houses before going home"
+            }
+          },
+          "destination": {
+            "Daintree Rainforest": "16.1700° S, 145.4185° E",
+            "Great Barrier Reef Marine Park": "19.2590° S, 146.8169° E",
+            "Uluru-Kata Tjuta National Park": "25.3438° S, 131.0347° E",
+            "Australia Zoo": "26.8357° S, 152.9631° E",
+            "Lake Gairdner": "31.6465° S, 135.9425° E"
+          },
+          "question": {
+            "The Australian Alps get more snow than the Swiss Alps": {
+              "fact": "The Australian Alps get more snow than the Swiss Alps",
+              "answer": "True",
+              "option": ["True", "False"]
+            },
+            "The Great Barrier Reef is the second largest eco-system in the world": {
+              "fact": "The Great Barrier Reef is the largest eco-system in the world",
+              "answer": "False",
+              "option": ["True", "False"]
+            },
+            "How many wine regions does Australia have? ": {
+              "fact": "Australia has over 60 separate wine regions",
+              "answer": "60",
+              "option": ["60", "80", "20", "40"]
+            },
+            "Fraser Island has the largest sand dune in the world": {
+              "fact": "Fraser Island is the largest sand island in the world",
+              "answer": "False",
+              "option": ["True", "False"]
+            },
+            "What percentage of animals in Australia are unique to Australia? ": {
+              "fact": "80% of the animals are unique to Australia",
+              "answer": "80%",
+              "option": ["60%", "80%", "20%", "40%"]
+            },
+            "Australia has the longest straight section of train track in the world": {
+              "fact": "Indian Pacific train has the longest straight section of train track in the world",
+              "answer": "True",
+              "option": ["True", "False"]
+            }
+          }
+        },
+        "Fiji": {
+          "flag": "https://flagpedia.net/data/flags/w580/fj.png",
+          "official_name": "Republic of Fiji",
+          "capital": "Suva",
+          "population": "884 887",
+          "area": "18 272",
+          "currency": {
+            "name": "Fijian dollar",
+            "symbol": "$",
+            "code": "FJD",
+            "GPD": " 6 267"
+          },
+          "language": ["Fijian", "Hindi", "English"],
+          "phrase": {
+            "Lutu na niu, lutu ki vuna": {
+              "translation": "A coconut falls close to its roots",
+              "meaning": "Children’s personality or behavior will closely imitate what they have been taught (or how they have been reared) in their homes"
+            },
+            "E vaka e kana uvi kataka": {
+              "translation": "It’s like he’s eating a hot piece of yam",
+              "meaning": "Someone is speaking so fast that what s/he is saying is not clear or not intelligible"
+            },
+            "Vaka e cavu na dalo matua": {
+              "translation": "It’s like pulling matured taro from the farm.",
+              "meaning": ""
+            },
+            "Sivi mada na veikau qai kalu": {
+              "translation": "It is best to first go past the forest before you start whistling.",
+              "meaning": " Do not be too boastful or come to a conclusion too early."
+            },
+            "Voci vaka vud": {
+              "translation": "It’s like peeling a (ripe or well cooked) plantain",
+              "meaning": "Something done very easily, quickly with no effort, such as in removing the skin of plantain fruit, to gush forth with the whole story"
+            }
+          },
+          "destination": {
+            "Bouma National Heritage Park": "16.8532° S, 179.9160° W",
+            "Beqa Lagoon": "18.3808° S, 178.1032° E",
+            "Sri Siva Subramaniya Temple": "17.80731°S, 177.41498°E",
+            "Sabeto Hot Springs and Mud Pool": "17.7185447352 °S, 177.485431731°E",
+            "Garden of the Sleeping Giant": "17.7104° S, 177.4735° E"
+          },
+          "question": {
+            "Fiji is made up of 333 islands, how many are uninhabited?": {
+              "fact": "Fiji is made up of 333 islands, with 223 of them being uninhabited",
+              "answer": "223",
+              "option": ["223", "321", "132", "112"]
+            },
+            "What year was cannibalism encouraged to stop in Fiji?": {
+              "fact": "Cannibalism was once common practice among Fijians. Fear not though - thanks to King Ratu Cakobau, this ended in 1871 when he encouraged his people to stop eating other humans.",
+              "answer": "1871",
+              "option": ["1871", "1921", "1791", "1681"]
+            },
+            "Around 20% of the Fijian population are of Indian descent": {
+              "fact": "These days around 40% of the Fijian population are of Indian descent",
+              "answer": "False",
+              "option": ["True", "False"]
+            },
+            "In Fiji, it is possible to be in two different time zones at the same time": {
+              "fact": "Strange but true, it is possible to be in two different time zones at the same time when on the island of Taveuni due to the fact that Fiji is spread across the international dateline.",
+              "answer": "True",
+              "option": ["True", "False"]
+            },
+            "600,000 Indians got free passage into Fiji": {
+              "fact": "Between 1879 and 1916 they gave 600,000 Indians free passage to Fiji in exchange for work on the sugarcane plantations.",
+              "answer": "True",
+              "option": ["True", "False"]
+            },
+            "All 28 airports have paved runways": {
+              "fact": "Although Fiji has 28 airports, only 4 of them have paved runways.",
+              "answer": "False",
+              "option": ["True", "False"]
+            }
+          }
+        }
+      }
+    }
+  }
+}
